@@ -1,0 +1,12 @@
+2018-10-30 18:12:51,916  INFO [main] HomePageTest:34 - Starting Browser and URL
+2018-10-30 18:13:19,155  INFO [main] HomePageTest:90 - Starting Test Execution - validateHomePageTitleTest
+2018-10-30 18:13:32,014  INFO [main] HomePageTest:102 - Closing the browser
+2018-10-30 18:13:33,367  INFO [main] HomePageTest:34 - Starting Browser and URL
+2018-10-30 18:13:44,413  INFO [main] HomePageTest:90 - Starting Test Execution - validateHomePageTitleTest
+2018-10-30 18:13:56,263  INFO [main] HomePageTest:102 - Closing the browser
+2018-10-30 18:13:58,706  INFO [main] HomePageTest:34 - Starting Browser and URL
+2018-10-30 18:14:09,715  INFO [main] HomePageTest:46 - Starting Test Execution - validateHomePageTitleTest
+2018-10-30 18:14:14,604  INFO [main] HomePageTest:50 - Ending Test Execution
+2018-10-30 18:14:14,606  INFO [main] HomePageTest:102 - Closing the browser
+2018-10-30 18:14:15,898  INFO [main] HomePageTest:34 - Starting Browser and URL
+2018-10-30 18:14:25,956  INFO [main] HomePageTest:55 - Starting Test Execution - validateClickOnQuickAppOptionTest
